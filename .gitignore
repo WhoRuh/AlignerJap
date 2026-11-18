@@ -1,0 +1,15 @@
+# Dependencies, caches, and build output
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.next/
+dist/
+build/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+!.env.sample
